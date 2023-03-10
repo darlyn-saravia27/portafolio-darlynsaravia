@@ -1,0 +1,7 @@
+2023-03-06 20:41:00.811 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'commentsResolvedState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-06 20:41:31.977 [info] [perf] Render performance baseline is 153ms
+2023-03-06 20:41:33.862 [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {}
+2023-03-06 20:41:36.770 [error] RequestService#request (browser) - error https://vscodeexperiments.azureedge.net/experiments/vscode-experiments.json {}
+2023-03-06 20:41:46.393 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-06 20:41:52.357 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2023-03-06 20:41:57.464 [warning] UNRESPONSIVE extension host: 'yandeu.five-server' took 31.193246834925368% of 1571.255ms, saved PROFILE here: 'file:///tmp/exthost-800a84.cpuprofile'

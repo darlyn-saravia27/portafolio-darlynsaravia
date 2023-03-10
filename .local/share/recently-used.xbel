@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/darlyn_contreras_020322/index.html" added="2023-02-25T21:47:50.693773Z" modified="2023-02-25T21:47:50.693858Z" visited="2023-02-25T21:47:50.693776Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-02-25T21:47:50.693785Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/index.html" added="2023-02-26T21:17:11.078882Z" modified="2023-02-26T21:17:11.078908Z" visited="2023-02-26T21:17:11.078886Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-02-26T21:17:11.078896Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/darlyn_contreras_020322/%3C!DOCTYPE%20html%3E.html" added="2023-03-03T02:49:54.503690Z" modified="2023-03-03T02:59:23.517975Z" visited="2023-03-03T02:49:54.503693Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-03-03T02:59:23.517964Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/darlyn_contreras_020322/archivoshtml/codigotabla.html" added="2023-03-03T03:14:29.098207Z" modified="2023-03-03T03:14:29.098227Z" visited="2023-03-03T03:14:29.098209Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-03-03T03:14:29.098218Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/darlyn_contreras_020322" added="2023-03-03T03:20:03.046838Z" modified="2023-03-03T03:20:03.046854Z" visited="2023-03-03T03:20:03.046841Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-03-03T03:20:03.046847Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/darlyn_contreras_020322/archivoshtml/tareas%20de%20html/%3C!DOCTYPE%20html%3E.html" added="2023-03-04T00:01:18.437162Z" modified="2023-03-04T00:01:18.437238Z" visited="2023-03-04T00:01:18.437164Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-03-04T00:01:18.437172Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/darlyn_contreras_020322/archivoshtml/tareas%20de%20html/index.html" added="2023-03-04T00:05:08.595070Z" modified="2023-03-04T00:05:08.595085Z" visited="2023-03-04T00:05:08.595072Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-03-04T00:05:08.595077Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/darlyn_contreras_020322/archivoshtml/entretenimiento.html" added="2023-03-04T23:48:03.541061Z" modified="2023-03-04T23:48:03.541109Z" visited="2023-03-04T23:48:03.541063Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-03-04T23:48:03.541067Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/darlyn_contreras_020322/archivoshtml/maquillaje.html" added="2023-03-04T23:48:55.356219Z" modified="2023-03-04T23:48:55.356237Z" visited="2023-03-04T23:48:55.356221Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-03-04T23:48:55.356229Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/darlyn_contreras_020322/archivoshtml/gustomusical.html" added="2023-03-04T23:49:45.223430Z" modified="2023-03-04T23:49:45.223468Z" visited="2023-03-04T23:49:45.223434Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-03-04T23:49:45.223451Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

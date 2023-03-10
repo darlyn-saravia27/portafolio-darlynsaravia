@@ -1,0 +1,9 @@
+2023-03-08 15:01:41.958 [info] update#setState idle
+2023-03-08 15:02:07.569 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-03-08 15:02:07.840 [info] [UtilityProcess id: 1, type: extensionHost, pid: 657]: successfully created
+2023-03-08 15:02:11.976 [info] update#setState checking for updates
+2023-03-08 15:02:13.359 [info] update#setState available for download
+2023-03-08 15:03:46.918 [info] [UtilityProcess id: 1, type: extensionHost, pid: 657]: enabling inspect port
+2023-03-08 18:57:19.465 [info] [UtilityProcess id: 1, type: extensionHost, pid: 657]: waiting to exit...
+2023-03-08 18:57:19.726 [info] [UtilityProcess id: 1, type: extensionHost, pid: 657]: received exit event with code 0
+2023-03-08 18:57:19.728 [info] Extension host with pid 657 exited with code: 0, signal: unknown.

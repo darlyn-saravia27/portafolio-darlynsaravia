@@ -1,0 +1,16 @@
+2023-03-08 15:02:18.672 [info] Extension host with pid 657 started
+2023-03-08 15:02:18.672 [info] Skipping acquiring lock for /home/darlyn_contreras_020322/.config/Code/User/workspaceStorage/9f66b427196590a465b831bb24335078.
+2023-03-08 15:02:25.088 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-03-08 15:02:25.112 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-03-08 15:02:25.126 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-03-08 15:02:25.134 [info] ExtensionService#_doActivateExtension yandeu.five-server, startup: true, activationEvent: '*'
+2023-03-08 15:02:34.594 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-03-08 15:02:34.611 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-03-08 15:02:34.648 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-03-08 15:02:36.981 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-03-08 15:02:37.013 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-03-08 15:02:51.649 [info] Eager extensions activated
+2023-03-08 15:03:04.000 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-03-08 15:03:05.866 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-03-08 18:57:19.204 [info] Extension host terminating: renderer closed the MessagePort
+2023-03-08 18:57:19.561 [info] Extension host with pid 657 exiting with code 0

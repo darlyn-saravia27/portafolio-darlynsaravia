@@ -1,0 +1,7 @@
+2023-03-09 20:14:11.283 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'commentsResolvedState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-03-09 20:14:51.567 [info] [perf] Render performance baseline is 300ms
+2023-03-09 20:15:05.537 [info] UNRESPONSIVE extension host: starting to profile NOW
+2023-03-09 20:15:18.961 [warning] UNRESPONSIVE extension host: 'yandeu.five-server' took 39.55897125629621% of 1998.145ms, saved PROFILE here: 'file:///tmp/exthost-cf7850.cpuprofile'
+2023-03-09 20:17:43.067 [error] [Extension Host] Error: Unexpected SIGPIPE
+	at process.<anonymous> (/usr/share/code/resources/app/out/bootstrap.js:1:419)
+	at process.emit (node:events:526:28)

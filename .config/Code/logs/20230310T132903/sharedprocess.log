@@ -1,0 +1,17 @@
+2023-03-10 13:29:25.358 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-10 13:29:29.235 [info] Starting worker process with pid 435 (type: fileWatcher, window: 1).
+2023-03-10 13:29:30.977 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-03-10 13:34:55.586 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-03-10 13:40:05.826 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-03-10 13:45:15.980 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-03-10 13:50:26.140 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-03-10 13:55:36.244 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-03-10 14:00:46.361 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-03-10 14:05:56.469 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-03-10 14:11:06.583 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-03-10 14:16:16.704 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-03-10 14:21:26.823 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-03-10 14:26:36.938 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-03-10 15:42:53.065 [warning] No ptyHost heartbeat after 6 seconds
+2023-03-10 15:43:03.711 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+2023-03-10 15:55:24.588 [warning] No ptyHost heartbeat after 6 seconds

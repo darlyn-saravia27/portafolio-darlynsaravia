@@ -1,0 +1,35 @@
+2023-03-06 17:04:13.389 [info] update#setState idle
+2023-03-06 17:04:23.164 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-03-06 17:04:23.272 [info] [UtilityProcess id: 1, type: extensionHost, pid: 381]: successfully created
+2023-03-06 17:04:43.529 [info] update#setState checking for updates
+2023-03-06 17:04:43.674 [error] update#isLatestVersion(): failed to check for updates
+2023-03-06 17:04:43.675 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:105:7047)
+    at SimpleURLLoaderWrapper.emit (node:events:526:28)
+2023-03-06 17:04:53.692 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:105:7047)
+    at SimpleURLLoaderWrapper.emit (node:events:526:28)
+2023-03-06 17:04:53.695 [info] update#setState idle
+2023-03-06 17:05:03.709 [error] update#isLatestVersion(): failed to check for updates
+2023-03-06 17:05:03.711 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:105:7047)
+    at SimpleURLLoaderWrapper.emit (node:events:526:28)
+2023-03-06 17:09:52.639 [info] [UtilityProcess id: 1, type: extensionHost, pid: 381]: enabling inspect port
+2023-03-06 18:04:43.632 [info] update#setState checking for updates
+2023-03-06 18:04:53.690 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:105:7047)
+    at SimpleURLLoaderWrapper.emit (node:events:526:28)
+2023-03-06 18:04:53.703 [info] update#setState idle
+2023-03-06 19:04:42.989 [info] update#setState checking for updates
+2023-03-06 19:04:53.035 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:105:7047)
+    at SimpleURLLoaderWrapper.emit (node:events:526:28)
+2023-03-06 19:04:53.048 [info] update#setState idle
+2023-03-06 20:04:43.373 [info] update#setState checking for updates
+2023-03-06 20:04:53.446 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:105:7047)
+    at SimpleURLLoaderWrapper.emit (node:events:526:28)
+2023-03-06 20:04:53.460 [info] update#setState idle
+2023-03-06 20:38:45.071 [info] [UtilityProcess id: 1, type: extensionHost, pid: 381]: waiting to exit...
+2023-03-06 20:38:45.192 [info] [UtilityProcess id: 1, type: extensionHost, pid: 381]: received exit event with code 0
+2023-03-06 20:38:45.193 [info] Extension host with pid 381 exited with code: 0, signal: unknown.
